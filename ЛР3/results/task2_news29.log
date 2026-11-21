@@ -1,0 +1,18 @@
+2026-11-22 01:17:33,058 INFO Открываем рубрику: https://www.news29.ru/novosti/ekonomika/
+2026-11-22 01:17:35,226 INFO Закрыто уведомление о cookies
+2026-11-22 01:17:35,282 INFO Рубрика ekonomika: до нажатий 30 новостей
+2026-11-22 01:17:35,319 INFO Найдена кнопка: <div style="clear: both; margin-bottom: 10px; margin-top: 10px; width: 100%; text-align: center; background-color: #eee; padding: 7px 0px 7px 0px; cursor: pointer;" id="moreNews">Показать ещё</div>
+2026-11-22 01:17:35,758 INFO Рубрика ekonomika: нажатие 1 выполнено, проверяем данные
+2026-11-22 01:18:01,201 WARNING Рубрика ekonomika: после нажатия 1 новые записи не появились; URL https://www.news29.ru/novosti/ekonomika/
+2026-11-22 01:18:01,202 INFO Открываем рубрику: https://www.news29.ru/novosti/obschestvo/
+2026-11-22 01:18:01,857 INFO Рубрика obschestvo: до нажатий 30 новостей
+2026-11-22 01:18:01,894 INFO Найдена кнопка: <div style="clear: both; margin-bottom: 10px; margin-top: 10px; width: 100%; text-align: center; background-color: #eee; padding: 7px 0px 7px 0px; cursor: pointer;" id="moreNews">Показать ещё</div>
+2026-11-22 01:18:02,331 INFO Рубрика obschestvo: нажатие 1 выполнено, проверяем данные
+2026-11-22 01:18:03,083 INFO Рубрика obschestvo: успешное нажатие 1, новых записей 30, всего 60
+2026-11-22 01:18:03,118 INFO Найдена кнопка: <div style="clear: both; margin-bottom: 10px; margin-top: 10px; width: 100%; text-align: center; background-color: rgb(238, 238, 238); padding: 7px 0px; cursor: pointer; color: rgb(0, 0, 0);" id="moreNews">Показать ещё</div>
+2026-11-22 01:18:03,559 INFO Рубрика obschestvo: нажатие 2 выполнено, проверяем данные
+2026-11-22 01:18:04,436 INFO Рубрика obschestvo: успешное нажатие 2, новых записей 30, всего 90
+2026-11-22 01:18:04,471 INFO Найдена кнопка: <div style="clear: both; margin-bottom: 10px; margin-top: 10px; width: 100%; text-align: center; background-color: rgb(238, 238, 238); padding: 7px 0px; cursor: pointer; color: rgb(0, 0, 0);" id="moreNews">Показать ещё</div>
+2026-11-22 01:18:04,913 INFO Рубрика obschestvo: нажатие 3 выполнено, проверяем данные
+2026-11-22 01:18:07,754 INFO Рубрика obschestvo: успешное нажатие 3, новых записей 30, всего 120
+2026-11-22 01:18:07,757 INFO ГОТОВО: рубрика obschestvo, до нажатий 30, после 120, успешных нажатий 3. CSV: results\news29_selenium.csv
