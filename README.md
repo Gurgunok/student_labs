@@ -9,7 +9,7 @@
 - project — пример Python-проекта.
 
 ## Запуск проекта
-git clone https://github.com/USERNAME/student-labs.git
+git clone https://github.com/gurgunok/student-labs.git
 cd student-labs
 git switch project
 py example_project/main.py
